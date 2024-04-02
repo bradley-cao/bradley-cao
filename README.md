@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm Bradley, an undergrad CS major at the University of Maryland. In my past life (high school), I was a lead student systems administrator for the TJHSST [Computer Systems Lab](https://github.com/tjcsl). Nowdays, I enjoy tinkering around with a variety of technologies on both the software and hardware side. Outside of programming and school, I am a (semi-competent) competitive swimmer competing for the University's club team. Feel free to check out my [website](https://bradleycao.dev), or reach out to me [here](mailto:bradleycao@gmail.com).
+
+
+[![Bradley's GitHub stats](https://streak-stats.demolab.com/?user=bradley-cao&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **bradley-cao/bradley-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
