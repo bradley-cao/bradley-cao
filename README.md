@@ -1,4 +1,15 @@
-I'm Bradley, an undergrad CS major at the Georgia Institute of Technology. Previously, I was a lead student systems administrator for the TJHSST [Computer Systems Lab](https://github.com/tjcsl). Nowdays, I enjoy tinkering around with a variety of technologies on both the software and hardware side. Career-wise, I'm still trying to figure it out a little :') I'm interested in a variety of fields, including but not limited to full stack development, embedded systems, quantitative finance, and AI/ML. Outside of programming and school, I am a (semi-competent) competitive swimmer competing with Georgia Tech Swim Club, and a hobbyist photographer!
+hi, i'm bradley :)
+
+wrapping up my bs in cs @ georgia tech while simultaneously trying to navigate all the bs in my life 
+
+if i'm not staring at my computer screen i'm probably touching grass somewhere in the great outdoors or touching water (semi-retired "competitive" swimmer)
+
+i am mildly competent with a camera, and enjoy photography in my free time
+
+previous ventures:
+software engineer intern @ Solopulse Corp
+software engineer intern @ GTRI
+lead sysadmin @ TJHSST [Computer Systems Lab](https://github.com/tjcsl)
 
 <!--
 ### Stats
