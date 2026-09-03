@@ -6,9 +6,9 @@ if i'm not staring at my computer screen i'm probably touching grass somewhere i
 
 i am mildly competent with a camera, and enjoy photography in my free time
 
-previous ventures:
-software engineer intern @ Solopulse Corp
-software engineer intern @ GTRI
+previous ventures: \\
+software engineer intern @ Solopulse Corp \\
+software engineer intern @ GTRI \\
 lead sysadmin @ TJHSST [Computer Systems Lab](https://github.com/tjcsl)
 
 <!--
